@@ -50,5 +50,5 @@ func main() {
 	png.Encode(f, imag)
 	f.Close()
 
-	fmt.Println("Image created")
+	fmt.Println("Image created yo")
 }
